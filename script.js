@@ -1,0 +1,1 @@
+document.write("<strong>Добро пожаловать на мою страницу!<strong>");
