@@ -64,3 +64,8 @@ footer {
   align-items: center; /* Выравнивание по вертикали */
   justify-content: center; /* Выравнивание по горизонтали */
 }
+.hello {
+    color: #673AB7;
+    text-align: center;
+    font-size: 36px;
+}
